@@ -23,9 +23,6 @@
     "url": "https://github.com/mixmaxhq/cloudwatch-metrics/issues"
   },
   "homepage": "https://github.com/mixmaxhq/cloudwatch-metrics#readme",
-  "dependencies": {
-    "aws-sdk": "^2.412.0"
-  },
   "devDependencies": {
     "eslint": ">=3",
     "eslint-config-mixmax": "^0.6.0",
